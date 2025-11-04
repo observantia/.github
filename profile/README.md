@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="Logo ObservantIA" width="240"/>
 </p>
 
-# 🧠 ObservantIA – Sistema de Auditoria de Contratos
+# 🧠 ObservantIA – Sistema de Conformidade de Contratos
 
 > Projeto desenvolvido no contexto da disciplina **Planejamento e Gerenciamento de Projetos (PGP)**, **Sistemas de Gestão Empresarial (SGE)** e **Gestão de Processos de negócio (GPN)**
 > Curso de **Sistemas de Informação – Centro de Informática (CIn/UFPE)**  
